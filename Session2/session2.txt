@@ -1,0 +1,27 @@
+1- unzip Updated-Task-02.zip
+2- cd Updated-Task-02.zip
+3-ls 
+4-cat README.txt 
+5- ls -all 
+6- tar -xvf .level-1.tar 
+7-cd level-1
+8-cat README.txt
+9- file level-2
+10-tar -xvf level-2
+11-cd level-2
+.. cat README.txt 
+12- find -name level-3
+13- cd ./gBT5u0vLT5
+14-ls -all 
+15- file level-3.out
+16-ls -l
+17-cd level-3
+18- ls -all 
+19- find -name *.txt 
+20-cat README.txt
+21-ls -all 
+22-cat X6lkChFKsj
+23-find . -type f -size 73c 
+24-cd m7lRDpRTUJ/
+25- cat xVMvVOKNMW5 
+
