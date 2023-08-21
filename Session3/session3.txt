@@ -1,0 +1,35 @@
+step1: 
+* sudo useradd osc 
+* sudo groupadd osc_group 
+* passwd osc 
+* usermodd -aG osc_group osc 
+* usermod -aG sudo osc 
+* su - osc 
+
+step2:
+* mkdirpermission_practicce
+* touch public_file.txt 
+* touch private _file.txt 
+* touch executable_file.txt 
+* chmod a=rw public_file.txt 
+* chmod u=rw private _file.txt
+* chmod g=rx executable_file.txt
+* ls -all
+
+step3:
+*sudo chown root private_file.txt 
+*sudo chgrp osc_group private_file.txt 
+ls -all 
+
+step 4:
+* sleep 1000 &
+* kill 2551
+* vim 
+* pkill -9 vim 
+* pgrep sleep
+* pgrep vim 
+
+step 5: 
+sudo apt update 
+sudo apt install neofetch 
+sudo apt remove neofetch 
